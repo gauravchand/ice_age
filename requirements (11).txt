@@ -1,0 +1,16 @@
+gradio
+torch
+transformers
+huggingface-hub
+Pillow
+pytesseract
+PyMuPDF
+requests
+python-dotenv
+uuid
+firebase-admin
+google-auth
+google-auth-oauthlib
+python-jose
+accelerate 
+PyPDF2
